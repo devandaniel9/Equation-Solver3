@@ -5,7 +5,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import streamlit as st
 from PIL import Image
-import plotly.graph_objects as go
 
 font = {'family' : 'sans-serif',
         'weight' : 'normal',
