@@ -18,7 +18,7 @@ plt.rc('font', **font)
 
 # Streamlit
 st.title('Equation Solver 3')
-st.write('###### **Made by Devan Daniel Nainggolan - Kelas 8 Betania**')
+st.write('#### **Made by Devan Daniel Nainggolan - Kelas 8 Betania**')
 
 st.write('''
 
